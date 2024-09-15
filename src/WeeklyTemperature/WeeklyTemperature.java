@@ -1,5 +1,5 @@
 package WeeklyTemperature;
-// import arraylist and scanner
+// import arraylist and scan
 import java.util.ArrayList;
 import java.util.Scanner;
 
